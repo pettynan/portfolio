@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Gugi');
+@import url("font-awesome.min.css");
+
 input, textarea, select {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Gugi', sans-serif;
   font-size: 19pt;
   font-weight: 300;
   line-height: 1.75em;
@@ -272,7 +275,7 @@ button,
   position: fixed;
   text-align: right;
   top: 0;
-  width: 375px;
+  width: 315px;
 }
 
   #header .top {
@@ -392,7 +395,7 @@ button,
 /* Footer */
 
 #footer {
-  margin-left: 375px;
+  margin-left: 300px;
   text-align: center;
   background-color: #dce3e2;
   padding: 3em 0 4em 0;

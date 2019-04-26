@@ -51,3 +51,14 @@ Number and name of feature: Feature #1 - Refactor the CSS
 	Finish time: 1015
 
 	Actual time needed to complete: 30 minutes
+
+
+Number and name of feature: Feature #2 - Modify the Contents
+
+	Estimate of time needed to complete: 90 minutes
+
+	Start time: 1035
+
+	Finish time: 1145
+
+	Actual time needed to complete: 70 minutes
