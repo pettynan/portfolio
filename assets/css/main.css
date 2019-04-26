@@ -1,5 +1,7 @@
-@import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+/*Fully distributed among base.css, layout.css, modules.css*/
+
+@import url("font-awesome.min.css"); /**/
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600"); /**/
 
 /*
 	Prologue by HTML5 UP
@@ -70,7 +72,7 @@ input, select, textarea {
 	-webkit-appearance: none;
 	-ms-appearance: none;
 	appearance: none;
-}
+} /**/
 
 /* Basic */
 
@@ -100,7 +102,7 @@ input, select, textarea {
 			-webkit-transition: none !important;
 			-ms-transition: none !important;
 			transition: none !important;
-		}
+		} /**/
 
 	input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
@@ -123,7 +125,7 @@ input, select, textarea {
 
 		h1 a strong, h2 a strong, h3 a strong, h4 a strong, h5 a strong, h6 a strong {
 			color: #333;
-		}
+		} /**/
 
 	h2 {
 		font-size: 2em;
@@ -189,7 +191,7 @@ input, select, textarea {
 		position: relative;
 		top: -0.5em;
 		font-size: 0.8em;
-	}
+	} /**/
 
 	hr {
 		border: 0;
@@ -208,7 +210,7 @@ input, select, textarea {
 
 	br.clear {
 		clear: both;
-	}
+	} /**/
 
 /* Container */
 
@@ -256,7 +258,7 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		}
+		} /**/
 
 /* Row */
 
@@ -1724,7 +1726,7 @@ input, select, textarea {
 							padding-top: 40px;
 						}
 
-		}
+		} /**/
 
 /* Sections/Article */
 
@@ -1740,7 +1742,7 @@ input, select, textarea {
 
 		.row > section, .row > article {
 			margin-bottom: 0;
-		}
+		} /**/
 
 /* Image */
 
@@ -1789,7 +1791,7 @@ input, select, textarea {
 			.image.centered img {
 				margin: 0 auto;
 				width: auto;
-			}
+			} /**/
 
 /* List */
 
@@ -1809,7 +1811,7 @@ input, select, textarea {
 
 		ol li {
 			padding-left: 0.25em;
-		}
+		} /**/
 
 /* Icons */
 
@@ -1831,7 +1833,7 @@ input, select, textarea {
 			line-height: 2em;
 			text-align: center;
 			border: 0;
-		}
+		} /**/
 
 /* Form */
 
@@ -1902,7 +1904,7 @@ input, select, textarea {
 
 	form ::-moz-focus-inner {
 		border: 0;
-	}
+	} /**/
 
 /* Table */
 
@@ -1933,7 +1935,7 @@ input, select, textarea {
 
 		table tfoot {
 			background: #eee;
-		}
+		} /**/
 
 /* Button */
 
@@ -1993,7 +1995,7 @@ input, select, textarea {
 
 			.item header h3 {
 				font-size: 1em;
-			}
+			} /**/
 
 /* Icons */
 
