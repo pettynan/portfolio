@@ -1,5 +1,6 @@
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+@import url('https://fonts.googleapis.com/css?family=Gugi');
 
 /*
 	Prologue by HTML5 UP
@@ -81,8 +82,8 @@ html {
 }
 
 body {
-  background: #fff;
-  font-family: 'Source Sans Pro', sans-serif;
+  background: #ffffdd;
+  font-family: 'Gugi', sans-serif;
   font-size: 19pt;
   font-weight: 300;
   line-height: 1.75em;
@@ -194,7 +195,8 @@ body {
 
     #main > section.one {
       background-color: #81918E;
-      background-image: url("../../images/banner.jpg");
+      background-image: url("../../images/lili-kovac-1537024-unsplash.jpg");
+      /* Photo by Lili Kovac on Unsplash */
     }
 
     #main > section.two {
