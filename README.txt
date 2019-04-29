@@ -62,3 +62,12 @@ Number and name of feature: Feature #2 - Modify the Contents
 	Finish time: 1145
 
 	Actual time needed to complete: 70 minutes
+
+
+Estimate of time needed to complete: as time allows
+
+	Start time: 0900
+
+	Finish time: 1100
+
+	Actual time needed to complete: 120 minutes
